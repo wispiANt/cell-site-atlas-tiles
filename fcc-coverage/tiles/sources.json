@@ -1,0 +1,770 @@
+[
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-att-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-verizon-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r6-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-att-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-verizon-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 6,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r6-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-att-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-verizon-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r7-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-4.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-5.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-6.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-att-7.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-4.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-5.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-6.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-verizon-7.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-4.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-5.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-6.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "5gnr",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-5gnr-r8-tmobile-7.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-att-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-verizon-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 7,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r7-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-0.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-1.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-2.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-3.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-4.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-5.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-6.pmtiles"
+  },
+  {
+    "provider": "att",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-att-7.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-0.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-1.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-2.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-3.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-4.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-5.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-6.pmtiles"
+  },
+  {
+    "provider": "verizon",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-verizon-7.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-0.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-1.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-2.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-3.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-4.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-5.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-6.pmtiles"
+  },
+  {
+    "provider": "tmobile",
+    "tech": "lte",
+    "res": 8,
+    "minzoom": 3,
+    "maxzoom": 10,
+    "url": "fcc-coverage/tiles/coverage-lte-r8-tmobile-7.pmtiles"
+  }
+]
